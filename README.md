@@ -1,7 +1,7 @@
 ![Banner](./images/banner.jpg)
 
 ### Why am I here? 
-Welcome to the Translate Sentiments Demo. As you may or may not know, you can use Amazon Translate to translate text and files, and Amazon Comprehend to obtain insights from text. Amazon Comprehend is currently available for X languages, and you may want to extract information from a non supported language. The objective of this demo is for you to combine both services and obtain insights from any language supported by Amazon Translate. 
+Welcome to the Translate Sentiments Demo. As you may or may not know, you can use Amazon Translate to translate text and files, and Amazon Comprehend to obtain insights from text. Amazon Comprehend is currently available for the [following languages](https://docs.aws.amazon.com/comprehend/latest/dg/supported-languages.html), and you may want to extract information from a non supported language. The objective of this demo is for you to combine both services and obtain insights from any language supported by Amazon Translate. 
 
 ### Why do I need?
 
